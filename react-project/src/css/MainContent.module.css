@@ -1,0 +1,138 @@
+.writeBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.introHeader{
+    height: 50px;
+    width: 550px;
+    font-size: 30px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border-color: whitesmoke;
+}
+
+.introBox{
+    display: flex;
+}
+
+.imgBox{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+}
+
+.imgContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 180px;
+    height: 160px;
+    margin-bottom: 10px;
+}
+
+.introContent{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.introTextBox{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.introTitle{
+    width: 70px;
+}
+
+.introText{
+    width: 220px;
+    border-radius: 5px;
+    border-color: whitesmoke;
+}
+
+.selfIntroHeader{
+    height: 30px;
+    width: 550px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border-color: whitesmoke;
+}
+
+.selfIntroBox{
+    display: flex;
+    align-items: center;
+}
+
+.selfIntroTextBox{
+    width: 520px;
+}
+
+.selfIntroText{
+    border-radius: 5px;
+    border-color: whitesmoke;
+    width: 490px;
+    margin-bottom: 10px;
+}
+
+.stackBox{
+    display: flex;
+    flex-direction: column;
+}
+
+.stackTitle{
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 60px;
+    width: 130px;
+}
+
+.stackContent{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.stackTextBox{
+    width: 280px;
+}
+
+.stackText{
+    width: 230px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border-color: whitesmoke;
+}
+
+.stackAddBtn{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border-color: whitesmoke;
+    background-color: whitesmoke;
+}
+
+.prjContent{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.prjTitleBox{
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+}
+
+.prjTitle{
+    margin-bottom: 10px;
+}
+
+.prjText{
+    margin-bottom: 10px;
+}
